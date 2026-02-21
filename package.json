@@ -1,0 +1,27 @@
+{
+  "name": "project01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicky1401/project01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Nicky1401/project01/issues"
+  },
+  "homepage": "https://github.com/Nicky1401/project01#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "better-sqlite3": "^12.6.2",
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0"
+  }
+}
